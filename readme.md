@@ -14,9 +14,9 @@ A simple Python implementation of the classic Snake Water Gun game with a modern
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
    ```
-   git clone <repository-url>
+   git clone 
    ```
-   Replace `<repository-url>` with the actual URL if hosted on GitHub or elsewhere.
+   https://github.com/rajeevsingh3108/SnakeWaterGun.git
 
 ## How to Run
 
